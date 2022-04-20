@@ -1,0 +1,18 @@
+/* .image{
+    height:40em; background-size:cover; width:auto;
+    background-image:url('../../../../assets/Image/home.jpeg');
+    background-position:50% 50%;
+    position: relative;
+} */
+
+.item img{
+    width: 85.3em;
+    height: 39em;
+    z-index:1;
+}
+#breadcrumb {
+  background-image: url(https://raw.githubusercontent.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL/master/bioMedical/src/main/resources/static/images/bg_1.jpg);
+  background-position: center center;
+  background-position-x: center;
+  background-position-y: center;
+}
